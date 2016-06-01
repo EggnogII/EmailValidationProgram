@@ -1,0 +1,39 @@
+alex.sawa@yahoo.com 
+jimbean@.yahoo.com
+kelly@gmail.com     
+asdfasdfa
+
+Jelly@yahoo.com alex.swizzl@.yahoo.com jim@@gmail.com
+
+%% %love@yahoo.com; jimbeanlover.smith.net
+
+alex.sawai@us.army.mil
+
+jane@yahoo.com;smith@gmail.com;simpson123@hotmail.com
+alex
+@
+Yahoo
+.
+com
+jane@yahoo.com,smit@gmail.com,simpson@hotmail.com
+      78565e54fyu@gmail.com
+eiksjie%jslkj@naver.com
+alex!superpo~vert@da?um.net
+   s,iiejw-lejs@yahoo.com
+skl23jf#$@eklklll@gmail.com          ##@!!!!!!!!@gamil.com
+sue@@.com!@#jimbean@yahoo.com^sam@hotmail.edu*()hello@gmail..com?second@yahoo.com;
+jim@yahoo.com|jane@dvc.edu[kim@us.army.mil
+
+
+doubles should be removed:
+jane@yahoo.com
+Jane@yahoo.com
+JAnE@yahoo.com
+Smith@gmail.com
+SIMPSOn123@hotmail.com
+
+1) How can you eliminate / \ ( 
+ jan/@yahoo.com
+hello\@yahoo.com
+smith(@yahoo.com
+mike/@yah\.co(m
